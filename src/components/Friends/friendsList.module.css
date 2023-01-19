@@ -1,6 +1,5 @@
-.friend_list li {
-  display: flex;
-  justify-content: center;
+.friend_list {
   margin: 0 auto;
   width: 450px;
+  margin-bottom: 150px;
 }
