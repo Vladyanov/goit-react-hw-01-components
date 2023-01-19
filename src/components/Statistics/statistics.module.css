@@ -1,6 +1,6 @@
 .statistics {
   width: 480px;
-  margin-left: 10px;
+  margin: 0 auto;
   margin-bottom: 150px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
@@ -27,6 +27,7 @@
   height: 80px;
   background-color: teal;
   color: #fff;
+  text-shadow: hoff voff blur #000;
   opacity: 50%;
 }
 
